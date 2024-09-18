@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\bin\Debug\Upisivanje podataka.exe.config
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\bin\Debug\Upisivanje podataka.exe
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\bin\Debug\Upisivanje podataka.pdb
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\obj\Debug\Upisivanje podataka.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\obj\Debug\Upisivanje_podataka.Form1.resources
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\obj\Debug\Upisivanje_podataka.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\obj\Debug\Upisivanje podataka.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\obj\Debug\Upisivanje podataka.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\obj\Debug\Upisivanje podataka.exe
+C:\Users\Ucenik\source\repos\Upisivanje podataka\Upisivanje podataka\obj\Debug\Upisivanje podataka.pdb
